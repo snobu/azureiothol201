@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2010
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CpuUsage2Azure", "CpuUsage2Azure\CpuUsage2Azure.csproj", "{7135E34A-DE59-4118-BED7-391E19ED6F48}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{E88F5F47-55A0-4846-8077-8CAB71D32CED}"
+	ProjectSection(SolutionItems) = preProject
+		HOL Architecture.vsdx = HOL Architecture.vsdx
+		HOL.docx = HOL.docx
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7135E34A-DE59-4118-BED7-391E19ED6F48}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7135E34A-DE59-4118-BED7-391E19ED6F48}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7135E34A-DE59-4118-BED7-391E19ED6F48}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7135E34A-DE59-4118-BED7-391E19ED6F48}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		EnterpriseLibraryConfigurationToolBinariesPathV6 = packages\EnterpriseLibrary.TransientFaultHandling.6.0.1304.0\lib\portable-net45+win+wp8
+		SolutionGuid = {C7A43460-7F0E-4922-834E-6D191F73F884}
+	EndGlobalSection
+EndGlobal
